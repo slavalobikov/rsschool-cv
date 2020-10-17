@@ -49,4 +49,4 @@ Experience in developing a social network using the courses of *Dmitry Kuzedyubi
 Graduated from a *philological school*, I study at the *BNTU* at the Faculty of *Information Technology and Robotics*.
 ## English
 
-Pre-intermediate (А2).
+Intermediate (B1).
